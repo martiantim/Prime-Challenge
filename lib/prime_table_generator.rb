@@ -1,0 +1,2 @@
+class PrimeTableGenerator
+end
